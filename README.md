@@ -1,5 +1,7 @@
 Cordova FileChooser Plugin
 
+NE PAS SUPPRIMER CE REPO L'ORIGINAL NE FOURNIT PAS DE PACKAGE.JSON !!!
+
 Requires Cordova >= 2.8.0
 
 Install with Cordova CLI
